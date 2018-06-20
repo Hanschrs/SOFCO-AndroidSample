@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "879857060162",
+    "firebase_url": "https://ess-gajiid.firebaseio.com",
+    "project_id": "ess-gajiid",
+    "storage_bucket": "ess-gajiid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879857060162:android:381f181423ff54d4",
+        "android_client_info": {
+          "package_name": "com.hanschrs.latihan5_sessionloginlogout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879857060162-td2upm0ui442fl9rhcpgfd04olarkk0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanschrs.latihan5_sessionloginlogout",
+            "certificate_hash": "f07c56fa28827051bd9365acec4ad2d5f8424b1c"
+          }
+        },
+        {
+          "client_id": "879857060162-j4h0r0gjgbupbrh5ai75fdqhemmnvjvt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "879857060162-j4h0r0gjgbupbrh5ai75fdqhemmnvjvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4cauInuJRHRVFfOSFuJPKbm50txRSjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879857060162-j4h0r0gjgbupbrh5ai75fdqhemmnvjvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
